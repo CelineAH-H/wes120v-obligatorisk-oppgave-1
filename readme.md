@@ -1,5 +1,5 @@
-# Dette er en oblikatorisk oppgave i Wes der oppgaven er å lage en en minimalt nettside med vite og terminalen. 
- 
+# Dette er en oblikatorisk oppgave i Wes der oppgaven er å lage en en minimalt Vite-prosjekt, der man skal rydde bort demo-innholdet, dokumentere prosjektet og publisere en forstålig Git-historikk på GitHub. 
+
 
 ## Formålet med oppgaven
 
